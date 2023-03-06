@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>varshitha personal site</title>
+</head>
+<body>
+    <h1 style="text-align:center">DURGAM VARSHITHA</h1>
+    <p style="text-align:center"><b>Front-end developer</b></p>
+    <p style="text-align:center"><a href="durgamvarshitha@gmail.com">durgamvarshitha@gmail.com</a></p>
+    <p>I am a web developerand fresher with a strong foundation in HTML,CSS,JAVASCRIPT along with python ,Sql.Iam constantly looking for ways to improve my skills and knowledge. Iam is a strong believer in the power of continuous learning and enjoys attending conferences and workshops to expand my skill set.Overall, Iam  a skilled and dedicated web developer with a passion for become  front-end web developer </p>
+    <hr>
+    <h3>MY EDUCATION</h3>
+    <table border="1" width="100%" height="200px">
+        <tr>
+            <th>Education</th>
+            <th>school/college</th>
+            <th>percentage</th>
+        </tr>
+        <tr>
+            <td>SSC</td>
+            <td>Narayana english medium school</td>
+            <td>9.8</td>
+        </tr>
+        <tr>
+            <td>Intermediate</td>
+            <td>Narayana college</td>
+            <td>9.44</td>
+        </tr>
+        <tr>
+            <td>B.tech</td>
+            <td>Sree vidyanikethan engineering college</td>
+            <td>8.67</td>
+        </tr>
+        
+    </table>
+
+    <hr>
+    <h3>MY SKILLS</h3>
+    <p><strong> Techincal Skills:</strong></p>
+    <p> HTML,CSS, JAVASCRIPT, PYTHON, MYSQL,DBMS</p>
+    <P><Strong>soft skills:</Strong></P>
+    <p>Team work,Effective communication,Time management </p>
+    <hr>
+    <h3>PROJECTS</h3>
+    <p><strong>college projects</strong></p>
+    <ul>
+        <li>TUNNELING EFFECT OF THREE TERMINAL DEVICE USING NANO COMPOSITE</li>
+        <li>Creating awareness towards organic techniques of raising ground waterlevelusing ICT tool</li>
+        <li>DEVELOPMENT OF PROTOTYPE  MICROSTRIP PATCH ANTENNA FOR NEXT GENERATION APPLICATIONS </li>
+    </ul>
+    <p><strong>self-paced project</strong></p>
+    <ul>
+        <li>Making my resume -HTML</li>
+        <li>portfolio-HTML</li>
+    </ul>
+    <hr>
+    <h3>INTERSHIP</h3>
+    <ul>
+        <li>
+            AICTE -CYBERSECURITY VIRTUAL INTERSHIP in march 2022
+        </li>
+        <li> VLSI _INTERSHIP in august 2022</li>
+    </ul>
+    <hr>
+    <h3>EXTRA-CURRICULAR ACTIVITIES</h3>
+    <ul>
+        <li>
+            Organised an event as a volunteer in college fest MOHANA MANTRA a National level Symposium and 
+            Technical Cultural fest in 2019 and 2020
+        </li>
+        <li>
+            writing an short stories inspirational book and publishing
+        </li>
+        <li>
+            Appreciated for being an organizer in our college Innovation club - ACME (Association of 
+            communication majors & enthusiasts).
+
+        </li>
+        <li>
+            Worked as NSS volunter
+        </li>
+    </ul>
+    <hr>
+    <h3>pROFILES</h3>
+    <p><b>linked in:</b><a href="www.linkedin.com/in/durgamvarshitha">www.linkedin.com/in/durgamvarshitha</a></p>
+
+
+      
+
+   
+    
+</body>
+</html>
